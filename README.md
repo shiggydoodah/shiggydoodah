@@ -4,8 +4,6 @@
 
 **shiggydoodah**
 <br>
-**Founder of [BORDIO](https://bord-games.com)**
-<br>
 I design and ship typed React products end to end.
 
 </div>
